@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-your text 
+"Ship is floating" - Dhoni
 Use the left arrow to go back!
